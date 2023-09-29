@@ -48,7 +48,7 @@ def mensagemtexto():
      #   mensagem += "*Setor:* " + lista[1] + "\n"
      #   mensagem += "*Solicitante:* " + lista[2] + "\n \n"
     mensagem += "\n \n \n"
-    mensagem += "\ud83d\udcde _Segue o telefone do nosso plantão: (85) 99983-0557 | Whatsapp: (85) 4005-1948_"
+    mensagem += "\ud83d\udcde _Segue o telefone do nosso plantão:_"
 
     return mensagem
 
